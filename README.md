@@ -1,0 +1,2 @@
+# .github
+ClipFusion organization info
